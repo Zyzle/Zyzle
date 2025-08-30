@@ -1,6 +1,8 @@
 # Welcome to my profile
 
-<img alt="profile pic" src="profile.png" height="300px" width="300px" />
+Thanks for checking out my profile, if you want to know more have a look at the pinned repos or visit my blog linked below.
+
+<!-- img alt="profile pic" src="profile.png" height="300px" width="300px" / -->
 
 ## My current projects you should check out
 
