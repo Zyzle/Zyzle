@@ -20,7 +20,8 @@ Thanks for checking out my profile, if you want to know more have a look at the 
 
 </p>
 
-[![trophy](https://github-profile-trophy-colin-mccullochs-projects.vercel.app/?username=Zyzle&no-frame=true&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy-colin-mccullochs-projects.vercel.app/api?username=Zyzle&no-frame=true&column=5&theme=onedark" alt="trophies" type="image/svg+xml" />
+   
 
 <!--
 **Zyzle/Zyzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
