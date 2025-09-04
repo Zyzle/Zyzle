@@ -7,7 +7,11 @@ Thanks for checking out my profile, if you want to know more have a look at the 
 ## My current projects you should check out
 
 <a href="https://zyzle.dev">
-<img alt="Zyzle.dev" src="web-visual-bookmark@2x.png" width="60%" />
+<img alt="Zyzle.dev" src="zyzle.dev.png" width="80%" />
+</a>
+
+<a href="https://storypoint-shuffle.zyzle.dev">
+<img alt="Storypoint Shuffle" src="storypoint-shuffle.png" width="80%" />
 </a>
 
 ## My github stats
@@ -20,7 +24,8 @@ Thanks for checking out my profile, if you want to know more have a look at the 
 
 </p>
 
-<img src="https://github-profile-trophy-colin-mccullochs-projects.vercel.app/api?username=Zyzle&no-frame=true&column=5&theme=onedark" alt="trophies" type="image/svg+xml" />
+[![Trophy](https://zyzle-trophies.vercel.app/api?username=Zyzle&no-frame=true&column=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
    
 
 <!--
